@@ -27,7 +27,7 @@ stream.stop_stream()
 stream.close()
 p.terminate()
 
-obj = wave.open("output.wav" , "wb")
+obj = wave.open("test_audio.wav" , "wb")
 
 obj.setnchannels(CHANNELS)
 obj.setsampwidth(p.get_sample_size(FORMAT))
