@@ -13,7 +13,7 @@ pipwin install pyaudio
 Usage
 1. Record audio (5 seconds): python record_audio.py
 2. Transcribe audio: python main.py
-Transcribes output.wav using both methods.
+Transcribes test_audio.wav using both methods.
 
 Files
 - record_audio.py – Records microphone input
