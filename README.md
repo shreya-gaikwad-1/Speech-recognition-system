@@ -1,8 +1,9 @@
 # Speech-recognition-system
+Company: CODTECH IT SOLUTIONS | Name: Shreya Sandesh Gaikwad | Intern ID: CT08DN1787 | Domain: Artificial Intelligence | Duration: 8 weeks | Mentor: Neela Santosh
 
 A simple Python-based Speech-to-Text tool using:
-- ✅ Google Speech Recognition API (online)
-- 🔒 Wav2Vec2.0 from Facebook (offline via Hugging Face)
+- Google Speech Recognition API (online)
+- Wav2Vec2.0 from Facebook (offline via Hugging Face)
 
 Requirements: pip install SpeechRecognition torch transformers librosa pyaudio
 
